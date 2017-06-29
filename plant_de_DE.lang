@@ -1,0 +1,566 @@
+language.code=de-DE
+language=Deutsch
+staxel.plant.bush.BlackberryBush.description=
+//TODO Translate [Reference] 'Blackberry Bush'
+staxel.plant.bush.BlackberryBush.name=
+staxel.plant.bush.BlueberryBush.description=
+//TODO Translate [Reference] 'Blueberry Bush'
+staxel.plant.bush.BlueberryBush.name=
+staxel.plant.bush.GoldenberryBush.description=
+//TODO Translate [Reference] 'Goldenberry Bush'
+staxel.plant.bush.GoldenberryBush.name=
+staxel.plant.bush.RaspberryBush.description=
+//TODO Translate [Reference] 'Raspberry Bush'
+staxel.plant.bush.RaspberryBush.name=
+staxel.plant.crop.Beet.description=
+//TODO Translate [Reference] 'Beet'
+staxel.plant.crop.Beet.name=
+staxel.plant.crop.Cabbage.description=
+//TODO Translate [Reference] 'Cabbage'
+staxel.plant.crop.Cabbage.name=
+staxel.plant.crop.Carrot.description=
+//TODO Translate [Reference] 'Carrot'
+staxel.plant.crop.Carrot.name=
+staxel.plant.crop.Corn.description=
+//TODO Translate [Reference] 'Corn'
+staxel.plant.crop.Corn.name=
+staxel.plant.crop.Cucumber.description=
+//TODO Translate [Reference] 'Cucumber'
+staxel.plant.crop.Cucumber.name=
+staxel.plant.crop.Eggplant.description=
+//TODO Translate [Reference] 'Eggplant'
+staxel.plant.crop.Eggplant.name=
+staxel.plant.crop.GoldenBeet.description=
+//TODO Translate [Reference] 'Golden Beet'
+staxel.plant.crop.GoldenBeet.name=
+staxel.plant.crop.GoldenCarrot.description=
+//TODO Translate [Reference] 'Golden Carrot'
+staxel.plant.crop.GoldenCarrot.name=
+staxel.plant.crop.GoldenCorn.description=
+//TODO Translate [Reference] 'Golden Corn'
+staxel.plant.crop.GoldenCorn.name=
+staxel.plant.crop.GoldenCucumber.description=
+//TODO Translate [Reference] 'Golden Cucumber'
+staxel.plant.crop.GoldenCucumber.name=
+staxel.plant.crop.GoldenEggplant.description=
+//TODO Translate [Reference] 'Golden Eggplant'
+staxel.plant.crop.GoldenEggplant.name=
+staxel.plant.crop.GoldenLettuce.description=
+//TODO Translate [Reference] 'Golden Lettuce'
+staxel.plant.crop.GoldenLettuce.name=
+staxel.plant.crop.GoldenOats.description=
+//TODO Translate [Reference] 'Golden Oats'
+staxel.plant.crop.GoldenOats.name=
+staxel.plant.crop.GoldenOnion.description=
+//TODO Translate [Reference] 'Golden Onion'
+staxel.plant.crop.GoldenOnion.name=
+staxel.plant.crop.GoldenPotato.description=
+//TODO Translate [Reference] 'Golden Potato'
+staxel.plant.crop.GoldenPotato.name=
+staxel.plant.crop.GoldenSugarBeet.description=
+//TODO Translate [Reference] 'Golden Sugar Beet'
+staxel.plant.crop.GoldenSugarBeet.name=
+staxel.plant.crop.GoldenSugarCane.description=
+//TODO Translate [Reference] 'Golden Sugar Cane'
+staxel.plant.crop.GoldenSugarCane.name=
+staxel.plant.crop.GoldenSweetPotato.description=
+//TODO Translate [Reference] 'Golden Sweet Potato'
+staxel.plant.crop.GoldenSweetPotato.name=
+staxel.plant.crop.GoldenTomato.description=
+//TODO Translate [Reference] 'Golden Tomato'
+staxel.plant.crop.GoldenTomato.name=
+staxel.plant.crop.GoldenTurnip.description=
+//TODO Translate [Reference] 'Golden Turnip'
+staxel.plant.crop.GoldenTurnip.name=
+staxel.plant.crop.Lettuce.description=
+//TODO Translate [Reference] 'Lettuce'
+staxel.plant.crop.Lettuce.name=
+staxel.plant.crop.Oat.description=
+//TODO Translate [Reference] 'Oat'
+staxel.plant.crop.Oat.name=
+staxel.plant.crop.Onion.description=
+//TODO Translate [Reference] 'Onion'
+staxel.plant.crop.Onion.name=
+staxel.plant.crop.Potato.description=
+//TODO Translate [Reference] 'Potato'
+staxel.plant.crop.Potato.name=
+staxel.plant.crop.Pumpkin.description=
+//TODO Translate [Reference] 'Pumpkin'
+staxel.plant.crop.Pumpkin.name=
+staxel.plant.crop.Strawberry.description=
+//TODO Translate [Reference] 'Strawberry'
+staxel.plant.crop.Strawberry.name=
+staxel.plant.crop.SugarBeet.description=
+//TODO Translate [Reference] 'SugarBeet'
+staxel.plant.crop.SugarBeet.name=
+staxel.plant.crop.SugarCane.description=
+//TODO Translate [Reference] 'Sugar Cane'
+staxel.plant.crop.SugarCane.name=
+staxel.plant.crop.SweetPotato.description=
+//TODO Translate [Reference] 'Sweet Potato'
+staxel.plant.crop.SweetPotato.name=
+//[Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.plant.crop.Tomato.description=Frisch, weich und saftig! Mmm.
+//[Reference] 'Tomato'
+staxel.plant.crop.Tomato.name=Tomate
+staxel.plant.crop.Turnip.description=
+//TODO Translate [Reference] 'Turnip'
+staxel.plant.crop.Turnip.name=
+staxel.plant.crop.Watermelon.description=
+//TODO Translate [Reference] 'Watermelon'
+staxel.plant.crop.Watermelon.name=
+staxel.plant.crop.WhiteRose.description=
+//TODO Translate [Reference] 'White Rose'
+staxel.plant.crop.WhiteRose.name=
+//[Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.1.description=Eine schöne, blaue, runde Blume
+//[Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.1.name=Blaues Allium
+//[Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.2.description=Eine schöne, blaue, runde Blume
+//[Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.2.name=Blaues Allium
+//[Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.1.description=Eine schöne, rosa, runde Blume
+//[Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.1.name=Rosa Allium
+//[Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.2.description=Eine schöne, rosa, runde Blume
+//[Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.2.name=Rosa Allium
+//[Reference] 'A pretty, purple, round flower.'
+staxel.plant.flower.Allium.purple.description=Eine schöne, lila, runde Blume
+//[Reference] 'Purple Allium'
+staxel.plant.flower.Allium.purple.name=Lila Allium
+//[Reference] 'A pretty, white, round flower.'
+staxel.plant.flower.Allium.white.description=Eine schöne, weiße, runde Blume
+//[Reference] 'White Allium'
+staxel.plant.flower.Allium.white.name=Weißes Allium
+staxel.plant.flower.Bluebell.description=
+//TODO Translate [Reference] 'Bluebell'
+staxel.plant.flower.Bluebell.name=
+//[Reference] 'A small, cute bush.'
+staxel.plant.flower.Bush.small.description=Ein kleiner, süßer Busch
+//[Reference] 'Small Bush'
+staxel.plant.flower.Bush.small.name=Kleiner Busch
+//[Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.pink.description=Eine rosa, elegante Blume
+//[Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.pink.name=Rosa Zimmercalla
+//[Reference] 'An orange, elegant flower.'
+staxel.plant.flower.CallaLily.slim.orange.description=Eine orangene, elegante Blume
+//[Reference] 'Orange Calla Lily'
+staxel.plant.flower.CallaLily.slim.orange.name=Orangene Zimmercalla
+//[Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.slim.pink.description=Eine rosa, elegante Blume
+//[Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.slim.pink.name=Rosa Zimmercalla
+//[Reference] 'A purple, elegant flower.'
+staxel.plant.flower.CallaLily.slim.purple.description=Eine lila, elegante Blume.
+//[Reference] 'Purple Calla Lily'
+staxel.plant.flower.CallaLily.slim.purple.name=Lila Zimmercalla
+//[Reference] 'A red, elegant flower.'
+staxel.plant.flower.CallaLily.slim.red.description=Eine rote, elegante Blume
+//[Reference] 'Red Calla Lily'
+staxel.plant.flower.CallaLily.slim.red.name=Rote Zimmercalla
+//[Reference] 'A violet, elegant flower.'
+staxel.plant.flower.CallaLily.slim.violet.description=Eine violette, elegante Blume
+//[Reference] 'Violet Calla Lily'
+staxel.plant.flower.CallaLily.slim.violet.name=Violette Zimmercalla
+//[Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.slim.white.description=Eine weiße, elegante Blume
+//[Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.slim.white.name=Weiße Zimmercalla
+//[Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.white.description=Eine weiße, elegante Blume
+//[Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.white.name=Weiße Zimmercalla
+//[Reference] 'A big, beautiful, orange flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.orange.description=Eine große, schöne, orangene Blume mit vielen kleinen Blüten.
+//[Reference] 'Orange Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.orange.name=Orangene Chrysantheme
+//[Reference] 'A big, beautiful, red flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.red.description=Eine große, schöne, rote Blume mit vielen kleinen Blüten.
+//[Reference] 'Red Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.red.name=Rote Chrysantheme
+//[Reference] 'A big, beautiful, yellow flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.yellow.description=Eine große, schöne, gelbe Blume mit vielen kleinen Blüten.
+//[Reference] 'Yellow Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.yellow.name=Gelbe Chrysantheme
+//[Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.pink.description=Eine einfache, jedoch hübsche, kleine Blume
+//[Reference] 'Pink Daisy'
+staxel.plant.flower.Daisies.pink.name=Rosa Gänseblume
+//[Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.white.description=Eine einfache, jedoch hübsche, kleine Blume
+//[Reference] 'White Daisy'
+staxel.plant.flower.Daisies.white.name=Weiße Gänseblume
+staxel.plant.flower.Dandelion.big.description=
+//TODO Translate [Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.big.name=
+staxel.plant.flower.Dandelion.small.description=
+//TODO Translate [Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.small.name=
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.1.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.1.name=Hell rosa Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.2.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.2.name=Hell rosa Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPurple.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'Light Purple Delphinium'
+staxel.plant.flower.Delphinium.lightPurple.name=Hell lila Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.pink.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'Pink Delphinium'
+staxel.plant.flower.Delphinium.pink.name=Rosa Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.purple.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'Purple Delphinium'
+staxel.plant.flower.Delphinium.purple.name=Lila Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.1.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.1.name=Weißer Rittersporn
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.2.description=Ein hoch emporragender Strauß atemberaubender Blumen
+//[Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.2.name=Weißer Rittersporn
+//[Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.blue.description=Eine prächtige, grazile Blume
+//[Reference] 'Blue Iris'
+staxel.plant.flower.Iris.blue.name=Blaue Schwertlilie
+//[Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.purple.description=Eine prächtige, grazile Blume
+//[Reference] 'Purple Iris'
+staxel.plant.flower.Iris.purple.name=Lila Schwertlilie
+staxel.plant.flower.Lavender.big.description=
+//TODO Translate [Reference] 'Lavender'
+staxel.plant.flower.Lavender.big.name=
+staxel.plant.flower.Lavender.small.description=
+//TODO Translate [Reference] 'Lavender'
+staxel.plant.flower.Lavender.small.name=
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.blue.description=Eine feine, trompetenförmige Blume.
+//[Reference] 'Blue Lily'
+staxel.plant.flower.Lily.blue.name=Blaue Lilie
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.orange.1.description=Eine feine, trompetenförmige Blume.
+//[Reference] 'Orange Lily'
+staxel.plant.flower.Lily.orange.1.name=Orangene Lilie
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.1.description=Eine feine, trompetenförmige Blume.
+//[Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.1.name=Rosa Lilie
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.2.description=Eine feine, trompetenförmige Blume.
+//[Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.2.name=Rosa Lilie
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.white.description=Eine feine, trompetenförmige Blume.
+//[Reference] 'White Lily'
+staxel.plant.flower.Lily.white.name=Weiße Lilie
+staxel.plant.flower.Madia.description=
+//TODO Translate [Reference] 'Madia'
+staxel.plant.flower.Madia.name=
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.blue.description=Eine Blume mit einem einzigartigen Muster auf ihren Blüten. Es sieht fast aus wie ein Schmetterling.
+//[Reference] 'Blue Pansies'
+staxel.plant.flower.Pansies.blue.name=Blaue Stiefmütterchen
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.pink.description=Eine Blume mit einem einzigartigen Muster auf ihren Blüten. Es sieht fast aus wie ein Schmetterling.
+//[Reference] 'Pink Pansies'
+staxel.plant.flower.Pansies.pink.name=Rosa Stiefmütterchen
+//[Reference] 'An eye catching flower with large petals.'
+staxel.plant.flower.Petunias.blue.description=Eine auffällige Blume mit großen Blütenblättern.
+//[Reference] 'Blue Petunias'
+staxel.plant.flower.Petunias.blue.name=Blaue petunie
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.pinkWhite.description=Eine Blume mit einem einzigartigen Muster auf ihren Blüten. Es sieht fast aus wie ein Schmetterling.
+//[Reference] 'Pink & White Petunias'
+staxel.plant.flower.Petunias.pinkWhite.name=Rosa und weiße Petunien
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.purpleWhite.description=Eine Blume mit einem einzigartigen Muster auf ihren Blüten. Es sieht fast aus wie ein Schmetterling.
+//[Reference] 'Purple & White Petunias'
+staxel.plant.flower.Petunias.purpleWhite.name=Lila und Weiße Petunien
+//[Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.red.description=Eine kleine, einfache und sehr schöne Blume.
+//[Reference] 'Red Poppies'
+staxel.plant.flower.Poppies.red.name=Rote Mohnblume
+//[Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.white.description=Eine kleine, einfache und sehr schöne Blume.
+//[Reference] 'White Poppies'
+staxel.plant.flower.Poppies.white.name=Weiße Mohnblume
+//[Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.red.description=Eine glanzvolle, ikonische Blume
+//[Reference] 'Red Roses'
+staxel.plant.flower.Roses.red.name=Rote Rosen
+//[Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.yellow.description=Eine glanzvolle, ikonische Blume
+//[Reference] 'Yellow Roses'
+staxel.plant.flower.Roses.yellow.name=Gelbe Rosen
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pink.description=Eine atemberaubende, lebhaft farbige Blume mit langen Blütenblättern.
+//[Reference] 'Pink Senetti'
+staxel.plant.flower.Senneti.pink.name=Rosa Garten-Zinerarie
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pinkWhite.description=Eine atemberaubende, lebhaft farbige Blume mit langen Blütenblättern.
+//[Reference] 'Pink & White Senetti'
+staxel.plant.flower.Senneti.pinkWhite.name=Rosa und weiße Garten-Zinerarie
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.purple.description=Eine atemberaubende, lebhaft farbige Blume mit langen Blütenblättern.
+//[Reference] 'Purple Senetti'
+staxel.plant.flower.Senneti.purple.name=Lila Garten-Zinerarie
+//[Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.1.description=Eine strahlende, heitere Blume.
+//[Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.1.name=Sonnenblume
+//[Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.2.description=Eine strahlende, heitere Blume.
+//[Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.2.name=Sonnenblume
+//[Reference] 'Some wild, extra long grass.'
+staxel.plant.flower.WildGrass.description=Etwas wildes, extra langes Gras.
+//[Reference] 'Wild Grass'
+staxel.plant.flower.WildGrass.name=Wildes Gras
+//[Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.plant.gatherable.BrownMushroom.description=Ein frisch gesammelter brauner Pilz. Dieser sieht essbar aus.
+//TODO Translate [Reference] 'Brown Mushroom'
+staxel.plant.gatherable.BrownMushroom.name=
+staxel.plant.gatherable.HermitShell.description=
+//TODO Translate [Reference] 'Hermit Shell'
+staxel.plant.gatherable.HermitShell.name=
+staxel.plant.gatherable.PearlShell.description=
+//TODO Translate [Reference] 'Pearl Shell'
+staxel.plant.gatherable.PearlShell.name=
+staxel.plant.gatherable.RedCoral.description=
+//TODO Translate [Reference] 'Red Coral'
+staxel.plant.gatherable.RedCoral.name=
+staxel.plant.gatherable.RedWhiteMushroom.description=
+//TODO Translate [Reference] 'Red White Mushroom'
+staxel.plant.gatherable.RedWhiteMushroom.name=
+staxel.plant.gatherable.Starfish.description=
+//TODO Translate [Reference] 'Starfish'
+staxel.plant.gatherable.Starfish.name=
+staxel.plant.gatherable.SwirlyShell.description=
+//TODO Translate [Reference] 'Swirly Shell'
+staxel.plant.gatherable.SwirlyShell.name=
+staxel.plant.gatherable.WhiteMushrooms.description=
+//TODO Translate [Reference] 'White Mushrooms'
+staxel.plant.gatherable.WhiteMushrooms.name=
+//[Reference] 'What a cute little bonsai tree!'
+staxel.plant.indoors.Bonsai.small.description=Was ein süßer kleiner Bonsai Baum!
+//[Reference] 'Small Bonsai Tree'
+staxel.plant.indoors.Bonsai.small.name=Kleiner Bonsai Baum
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.1.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.1.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.2.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.2.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.3.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.3.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.4.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.4.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.5.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.5.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.6.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.6.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.7.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.7.name=Mini-Kaktus
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.8.description=Ein reizender Mini-Kaktus
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.8.name=Mini-Kaktus
+//[Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.1.description=Ein leerer Topf.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.1.name=Leerer Topf
+//[Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.2.description=Ein leerer Topf.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.2.name=Leerer Topf
+//[Reference] 'An empty glass jar, ready for use.'
+staxel.plant.indoors.GlassJar.empty.description=Ein leeres Einmachglas, zur Benutzung bereit.
+//[Reference] 'Empty Glass Jar'
+staxel.plant.indoors.GlassJar.empty.name=Leeres Einmachglaß
+//[Reference] 'A mug with a heart on it, how sweet!'
+staxel.plant.indoors.HeartMug.empty.description=Ein Krug mit einem Herz drauf, wie süß!
+//[Reference] 'Heart Mug'
+staxel.plant.indoors.HeartMug.empty.name=Herz-Krug
+//[Reference] 'A heart mug with roses inside!'
+staxel.plant.indoors.HeartMug.roses.description=Ein Herz-Krug mit Rosen!
+//[Reference] 'Heart Mug With Roses'
+staxel.plant.indoors.HeartMug.roses.name=Herz-Krug mit Rosen
+//[Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.Hydrangea.small.description=Eine gesund aussehende Hortensie in einem Topf.
+//[Reference] 'Small Potted Hydrangea'
+staxel.plant.indoors.Hydrangea.small.name=Kleine eingetopfte Hortensie
+//[Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.HydrangeaPot.small.description=Eine gesund aussehende Hortensie in einem Topf.
+//[Reference] 'Potted Hydrangea'
+staxel.plant.indoors.HydrangeaPot.small.name=Eingetopfte Hortensie
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.1.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.1.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.2.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.2.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.3.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.3.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.4.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.4.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.5.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.5.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.6.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.6.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.7.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//TODO Translate [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.7.name=
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.8.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.8.name=Tintenfass Topf
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.9.description=Dieser Topf enthält eine süße, kleine Pflanze. Toll für Dekoration!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.9.name=Tintenfass Topf
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.1.description=Leerer Tintenfass Topf
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.1.name=Jemand hat die ganze Tinte benutzt...
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.2.description=Leerer Tintenfass Topf
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.2.name=Jemand hat die ganze Tinte benutzt...
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.3.description=Leerer Tintenfass Topf
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.3.name=Jemand hat die ganze Tinte benutzt...
+//[Reference] 'A pale pot with a lovely, healthy plant inside.'
+staxel.plant.indoors.PottedPlant.description=Ein blasser Topf mit einer entzückenden, gesunden Pflanze drin.
+//[Reference] 'Potted Plant'
+staxel.plant.indoors.PottedPlant.name=Topfpflanze
+//[Reference] 'A large orange pot with primroses growing inside.'
+staxel.plant.indoors.Primroses.description=Ein großer orangener Topf mit Primeln drin.
+//[Reference] 'Primroses'
+staxel.plant.indoors.Primroses.name=Primeln
+//[Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.1.description=Ein winziger Topf mit einer sehr kleinen Blume drin. So süß!
+//[Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.1.name=Winzige Topfpflanze
+//[Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.2.description=Ein winziger Topf mit einer sehr kleinen Blume drin. So süß!
+//[Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.2.name=Winzige Topfpflanze
+//[Reference] 'A large, detailed pot with sunflowers growing inside.'
+staxel.plant.indoors.Sunflowers.description=Ein großer, detallierter Topf mit Sonnenblumen drin.
+//[Reference] 'Potted Sunflowers'
+staxel.plant.indoors.Sunflowers.name=Eingetopfte Sonnenblumen
+//[Reference] 'Potted tulips in a lovely, simple pot.'
+staxel.plant.indoors.Tulips.purple.description=Eingetopfte Tulpen in einem reizenden, einfachen Topf
+//[Reference] 'Potted Tulips'
+staxel.plant.indoors.Tulips.purple.name=Eingetopfte Tulpen
+//[Reference] 'A plain, empty pot.'
+staxel.plant.indoors.TulipsMug.empty.purple.description=Ein schlichter, leerer Topf.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.TulipsMug.empty.purple.name=Leerer Topf
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a A note.'
+staxel.plant.musical.PianoA.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein A.
+//[Reference] 'Musical Piano Plant Note A'
+staxel.plant.musical.PianoA.name=Musikalische Klavier-Pflanze Note A
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a B note.'
+staxel.plant.musical.PianoB.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein H.
+//[Reference] 'Musical Piano Plant Note B'
+staxel.plant.musical.PianoB.name=Musikalische Klavier-Pflanze Note H
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a C note.'
+staxel.plant.musical.PianoC.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein C.
+//[Reference] 'Musical Piano Plant Note C'
+staxel.plant.musical.PianoC.name=Musikalische Klavier-Pflanze Note C
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a D note.'
+staxel.plant.musical.PianoD.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein D.
+//[Reference] 'Musical Piano Plant Note D'
+staxel.plant.musical.PianoD.name=Musikalische Klavier-Pflanze Note D
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a E note.'
+staxel.plant.musical.PianoE.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein E.
+//[Reference] 'Musical Piano Plant Note E'
+staxel.plant.musical.PianoE.name=Musikalische Klavier-Pflanze Note E
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a F note.'
+staxel.plant.musical.PianoF.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein FA.
+//[Reference] 'Musical Piano Plant Note F'
+staxel.plant.musical.PianoF.name=Musikalische Klavier-Pflanze Note F
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a G note.'
+staxel.plant.musical.PianoG.description=Diese Pflanze spielt einen Klavierton, wenn man mit ihr interagiert! Diese hier spielt ein G.
+//[Reference] 'Musical Piano Plant Note G'
+staxel.plant.musical.PianoG.name=Musikalische Klavier-Pflanze Note G
+staxel.plant.tree.AppleTree.description=
+//TODO Translate [Reference] 'Apple Tree'
+staxel.plant.tree.AppleTree.name=
+staxel.plant.tree.BananaTree.description=
+//TODO Translate [Reference] 'Banana Tree'
+staxel.plant.tree.BananaTree.name=
+staxel.plant.tree.CherryTree.description=
+//TODO Translate [Reference] 'Cherry Tree'
+staxel.plant.tree.CherryTree.name=
+staxel.plant.tree.CocoaTree.description=
+//TODO Translate [Reference] 'Cocoa Tree'
+staxel.plant.tree.CocoaTree.name=
+staxel.plant.tree.CoconutTree.description=
+//TODO Translate [Reference] 'Coconut Tree'
+staxel.plant.tree.CoconutTree.name=
+staxel.plant.tree.DragonFruitTree.description=
+//TODO Translate [Reference] 'Dragon Fruit Tree'
+staxel.plant.tree.DragonFruitTree.name=
+staxel.plant.tree.KiwiTree.description=
+//TODO Translate [Reference] 'Kiwi Tree'
+staxel.plant.tree.KiwiTree.name=
+staxel.plant.tree.LemonTree.description=
+//TODO Translate [Reference] 'Lemon Tree'
+staxel.plant.tree.LemonTree.name=
+staxel.plant.tree.LimeTree.description=
+//TODO Translate [Reference] 'Lime Tree'
+staxel.plant.tree.LimeTree.name=
+staxel.plant.tree.MangoTree.description=
+//TODO Translate [Reference] 'Mango Tree'
+staxel.plant.tree.MangoTree.name=
+staxel.plant.tree.OrangeTree.description=
+//TODO Translate [Reference] 'Orange Tree'
+staxel.plant.tree.OrangeTree.name=
+staxel.plant.tree.PeachTree.description=
+//TODO Translate [Reference] 'Peach Tree'
+staxel.plant.tree.PeachTree.name=
+staxel.plant.tree.PearTree.description=
+//TODO Translate [Reference] 'Pear Tree'
+staxel.plant.tree.PearTree.name=
+staxel.plant.tree.TangerineTree.description=
+//TODO Translate [Reference] 'Tangerine Tree'
+staxel.plant.tree.TangerineTree.name=
+staxel.plant.weed.Weed1.description=
+//TODO Translate [Reference] 'Weeds'
+staxel.plant.weed.Weed1.name=

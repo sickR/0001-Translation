@@ -1,0 +1,12 @@
+language.code=de-DE
+language=Deutsch
+//[Reference] 'Hi there. I'm {0-name}.'
+staxel.village.dialogue.SeedVendor.line:10000100=Hallo. Ich bin {0-name}.
+//[Reference] 'I sell seeds.'
+staxel.village.dialogue.SeedVendor.line:10000200=Ich verkaufe Saatgut.
+//[Reference] 'Rob sells magic water if you want them to grow fast.'
+staxel.village.dialogue.SeedVendor.line:10000300=Rob verkauft magisches Wasser, wenn deine Pflanzen schneller wachsen sollen.
+//[Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000400=Danke.
+//[Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000500=Danke.

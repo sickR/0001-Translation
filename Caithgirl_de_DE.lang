@@ -1,0 +1,10 @@
+language.code=de-DE
+language=Deutsch
+//[Reference] 'Mmmya?'
+staxel.village.dialogue.Caithgirl.line:10000100=Mmmya?
+//[Reference] 'Do Caiths always end sentences with mya?'
+staxel.village.dialogue.Caithgirl.line:10000200=Beenden Kaitzen ihre Sätze immer mit mya?
+//[Reference] 'N-no! Just sometimes...'
+staxel.village.dialogue.Caithgirl.line:10000300=N-nein! Nur manchmal...
+//[Reference] '...m-mya...'
+staxel.village.dialogue.Caithgirl.line:10000400=...m-mya...

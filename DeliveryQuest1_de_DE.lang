@@ -1,0 +1,42 @@
+language.code=de-DE
+language=Deutsch
+//[Reference] 'One moment {0-playerName}!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000100=Einen Moment, {0-playerName}!
+//[Reference] 'Do you think you could deliver this {0-item} to {1-target} for me?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000200=Kannst du {0-item} zu {1-target} bringen?
+//[Reference] 'Sure! No problem!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000300=Sicher! Kein Problem.
+//[Reference] 'I'm a bit busy today.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000400=Ich bin heute zu beschäftigt.
+//[Reference] 'Perfect! Thank you!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000500=Perfekt! Danke!
+//[Reference] 'That's the item!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000600=Das ist es!
+//[Reference] 'You need to take the {0-item} to {1-target}!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000700=Du müsstest {0-item} schon zu {1-target} mitnehmen.
+//[Reference] 'Sure thing!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000800=Alles Klar!
+//[Reference] 'I'll pass.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000900=Ich passe.
+//[Reference] 'Oh... alright.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001000=Oh ... na gut.
+//[Reference] 'Oh, is that {0-item} for me?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001100=Oh, ist {0-item} für mich?
+//[Reference] 'Indeed!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001200=Allerdings!
+//[Reference] 'Nope.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001300=Nö.
+//[Reference] 'Thank you!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001400=Danke!
+//[Reference] 'Please, take this for your trouble!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001500=Bitte nimm dies, für deine Mühe.
+//[Reference] 'Oh... Okay.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001600=Oh... Okay.
+//[Reference] 'I hope it arrives soon...'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001700=Ich hoffe, dass es bald ankommt...
+//[Reference] 'Oh... okay. I understand.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001800=Oh... okay. Ich verstehe.
+//[Reference] 'You're not going to give the {0-item} back?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001900=Du wirst {0-item} nicht zurückgeben?
+//[Reference] 'Hmm... I wonder when I'll get my {0-item}...'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10002000=Hmm... Ich frage mich, wann ich mein {0-item} bekomme...
