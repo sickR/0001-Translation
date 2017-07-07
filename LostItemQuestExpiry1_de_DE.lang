@@ -5,4 +5,4 @@ staxel.village.dialogue.quest.LostItemQuestExpiry.1.line:10000100=Oh... Hi {0-pl
 //[Reference] 'I got my {0-item} back in the end thankfully!'
 staxel.village.dialogue.quest.LostItemQuestExpiry.1.line:10000200=Letztlich hab ich mein {0-item} glücklicherweise doch zurückbekommen!
 //[Reference] 'Crisis averted!'
-staxel.village.dialogue.quest.LostItemQuestExpiry.1.line:10000300=Die Krise abgewendet!
+staxel.village.dialogue.quest.LostItemQuestExpiry.1.line:10000300=Krise abgewendet!
