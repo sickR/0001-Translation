@@ -1,7 +1,7 @@
 language.code=de-DE
 language=Deutsch
 //[Reference] 'There are no good fishing spots around here...'
-staxel.village.dialogue.job.FishingSpotMissing.line:10000100=Es gibt hier keinen Angelplatz...
+staxel.village.dialogue.job.FishingSpotMissing.line:10000100=Es gibt hier keinen guten Angelplatz...
 //[Reference] 'I'm starting to get really hungry mya!'
 staxel.village.dialogue.job.FishingSpotMissing.line:10000200=Ich werde langsam sehr hungrig, mya!
 //[Reference] '{0-playername}...'
@@ -15,6 +15,6 @@ staxel.village.dialogue.job.FishingSpotMissing.line:10000600=Das willst du doch 
 //[Reference] 'Use this signpost to designate the area for it.'
 staxel.village.dialogue.job.FishingSpotMissing.line:10000700=Benutze dieses Schild, um das Gebiet zu markieren.
 //[Reference] 'You can build the pier on a pond or the ocean.'
-staxel.village.dialogue.job.FishingSpotMissing.line:10000800=Du kannst die Seebrücke an einem Teich oder am Meer bauen.
+staxel.village.dialogue.job.FishingSpotMissing.line:10000800=Du kannst das Pier an einem Teich oder am Meer bauen.
 //[Reference] 'It doesn't really matter... just let me fish mya!'
-staxel.village.dialogue.job.FishingSpotMissing.line:10000900=Eigentlich ist es egal... lass' mich einfach nur fischen, mya!
+staxel.village.dialogue.job.FishingSpotMissing.line:10000900=Eigentlich ist es egal... lass mich einfach nur fischen, mya!
